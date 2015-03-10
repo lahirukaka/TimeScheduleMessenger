@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Scheduler Plugin</string>
+    <string name="app_launcher">Schedule Messages</string>
+	
+    <!-- Add Fragment -->
+    <string name="add_btn_setdatetime">Set Date and Time</string>
+    <string name="add_msg_hint">Type Your Message Here&#8230;</string>
+    <string name="add_tel_hint">Type/Select Number </string>
+    <string name="add_btn_pick_contact">Phonebook</string>
+    <string name="add_schedule_txt">Set date and time to send</string>
+    <string name="confirm_txt">Processing&#8230;</string>
+    <string name="do_you_know_p">Do You Know : \nThis app will let you Schedule\n\tWishes\tJokes\tQuotes\nin the near future.\tSo Stay Tuned..</string>
+    <string name="do_you_know_l">Do You Know :\nThis app will let you Schedule\n\n\tWishes\n\tJokes\n\tQuotes\n\nin the near future.\n\nSo Stay Tuned..</string>
+    <string name="swipe">Swipe >> to confirm</string>
+    
+    <!-- View Fragment -->
+    <string name="view_list_delete">Delete</string>
+    <string name="view_list_empty">There is nothing to show</string>
+    
+</resources>
